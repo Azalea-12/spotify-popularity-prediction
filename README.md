@@ -159,6 +159,6 @@ One-hot (35 столбцов):
 ## 👤 Автор
 [Гареева Азалия]
 
-GitHub: @Azalea-12
+GitHub: [@Azalea-12] [https://github.com/Azalea-12/spotify-popularity-prediction]
 
 Email: gareevaazalia12@gmail.com
